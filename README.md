@@ -18,7 +18,7 @@ Visit [quickbytes.exchange](https://quickbytes.exchange) to learn more about Qui
 ## Installation
 
 ```bash
-npm install @quickbytes/webpay
+npm i @quickbytes-exchange/webpay
 ```
 
 ## Quick Start
