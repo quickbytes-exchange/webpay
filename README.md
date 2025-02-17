@@ -160,10 +160,6 @@ MIT
 ## Support
 
 For questions and support:
-- Visit our [documentation](https://quickbytes.exchange/docs)
-- Join our [community forum](https://quickbytes.exchange/community)
-- Contact us through [quickbytes.exchange](https://quickbytes.exchange/contact)
-
-## Contributing
-
-Contributions are welcome! Please read our contributing guidelines before submitting pull requests.
+- Open an issue on our [GitHub Issue Tracker](https://github.com/quickbytes/webpay/issues)
+- Check our [GitHub Discussions](https://github.com/quickbytes/webpay/discussions) for community help
+- Review existing issues and pull requests for solutions to common problems
