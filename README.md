@@ -71,7 +71,7 @@ import { QuickBytesPayment } from '@quickbytes/webpay';
 const payment = new QuickBytesPayment();
 
 payment.createPayment({
-  cents: 100,
+  cents: 15,
   payment_address: 'YOUR_ALGORAND_ADDRESS',
   payee_name: 'Store Name',
   item_name: 'Product Name',
