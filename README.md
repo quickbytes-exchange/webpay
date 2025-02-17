@@ -155,7 +155,7 @@ This library supports all modern browsers that implement the Web Components v1 s
 
 ## License
 
-ISC
+MIT
 
 ## Support
 
