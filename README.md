@@ -18,7 +18,7 @@ Visit [quickbytes.exchange](https://quickbytes.exchange) to learn more about Qui
 ## Installation
 
 ```bash
-npm i @quickbytes-exchange/webpay
+npm install @quickbytes-exchange/webpay
 ```
 
 ## Quick Start
@@ -30,12 +30,12 @@ npm i @quickbytes-exchange/webpay
 <html>
 <head>
     <title>QuickBytes Payment Example</title>
-    <script src="https://cdn.quickbytes.exchange/webpay/v1/quickbytes-webpay.js"></script>
+    <script src="https://unpkg.com/@quickbytes-exchange/webpay/dist/quickbytes-webpay.js"></script>
 </head>
 <body>
     <!-- Add the payment button -->
     <quickbytes-pay-button 
-        cents="100"
+        cents="25"
         payment-address="YOUR_ALGORAND_ADDRESS">
     </quickbytes-pay-button>
 
@@ -66,7 +66,7 @@ npm i @quickbytes-exchange/webpay
 ### Using the JavaScript API
 
 ```javascript
-import { QuickBytesPayment } from '@quickbytes/webpay';
+import { QuickBytesPayment } from '@quickbytes-exchange/webpay';
 
 const payment = new QuickBytesPayment();
 
